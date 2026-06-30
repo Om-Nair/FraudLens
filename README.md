@@ -122,18 +122,6 @@ The transaction exhibits multiple high-risk indicators including behavioral and 
 
 ---
 
-## Model Evaluation (Optional)
-
-Since real fraud labels are not available, proxy labels were created using domain-based heuristics. The anomaly detection model is evaluated using:
-
-- Confusion Matrix  
-- Precision / Recall  
-- Classification Report  
-
-This provides an approximate performance benchmark for the unsupervised model.
-
----
-
 ## Limitations
 
 - Uses synthetic or static dataset  
