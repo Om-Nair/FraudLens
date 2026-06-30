@@ -1,4 +1,4 @@
-# FraudLens — Explainable Fraud Detection System
+# FraudLens: Explainable Fraud Detection System
 
 FraudLens is a fraud analytics prototype that simulates how financial institutions detect, score, and investigate suspicious transactions.
 
