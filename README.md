@@ -4,6 +4,10 @@ FraudLens is an end-to-end machine learning prototype that simulates how financi
 
 The goal is not just to flag fraud, but to explain *why* a transaction is suspicious in a way that mirrors real fraud analyst workflows.
 
+## Demo
+
+![FraudLens Dashboard](fraudlens_screenshot.png)
+
 ---
 
 ## Problem Statement
