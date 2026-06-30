@@ -1,8 +1,8 @@
-# FraudLens: Explainable Fraud Detection System
+# FraudLens — Explainable Fraud Detection System
 
-FraudLens is an end-to-end machine learning prototype that simulates how financial institutions detect and investigate suspicious transactions. It combines anomaly detection, rule-based reasoning, and large language models to generate explainable fraud investigation reports.
+FraudLens is a fraud analytics prototype that simulates how financial institutions detect, score, and investigate suspicious transactions.
 
-The goal is not just to flag fraud, but to explain *why* a transaction is suspicious in a way that mirrors real fraud analyst workflows.
+It combines machine learning (Isolation Forest), rule-based risk scoring, and LLM-generated investigation summaries to create an end-to-end fraud decision support system.
 
 ## Demo
 
